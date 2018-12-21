@@ -8,9 +8,6 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/install-resolver">
-    <img src="https://img.shields.io/npm/dy/install-resolver.svg">
-  </a>
-  <a href="https://www.npmjs.com/package/install-resolver">
     <img src="https://img.shields.io/npm/v/install-resolver.svg?maxAge=3600&label=install-resolver&colorB=007ec6">
   </a>
   <img src="https://img.shields.io/github/repo-size/hanford/install-resolver.svg" />
