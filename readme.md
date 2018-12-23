@@ -34,7 +34,9 @@ $ yarn add install-resolver -g
 
 And simply type:
 ```sh
-$ install-resolver
+$ ir install
+# or 
+$ ir remove
 ```
 
 Questions? Feedback? [Please let me know](https://github.com/hanford/install-resolver/issues/new)

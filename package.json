@@ -18,12 +18,14 @@
     "ansi-escapes": "^3.1.0",
     "await-exec": "^0.1.2",
     "chalk": "^2.4.1",
+    "commander": "^2.19.0",
     "fs-extra": "^7.0.1",
     "ms": "^2.1.1",
     "ora": "^3.0.0"
   },
   "bin": {
-    "install-resolver": "./index.js"
+    "install-resolver": "./cli.js",
+    "ir": "./cli.js"
   },
   "devDependencies": {}
 }
