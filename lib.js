@@ -18,7 +18,7 @@ module.exports = async function InstallResolver(action, packages) {
     output.success('')
   } catch (err) {
     stopInstallSpinner()
-    output.error(command)
+    output.error(err)
   }
 }
 

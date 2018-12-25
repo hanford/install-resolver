@@ -5,8 +5,6 @@ const program = require('commander')
 const InstallResolver = require('./lib')
 const pkg = require('./package.json')
 
-let projectName
-
 program
   .version(pkg.version)
   .arguments('<action> [packages...]', { isDefault: true })
